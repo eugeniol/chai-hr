@@ -1,0 +1,29 @@
+{
+  "name": "chai-hr",
+  "version": "1.0.0",
+  "description": "Convert strings sentence into Chai.js asserts",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugeniol/chai-hr.git"
+  },
+  "keywords": [
+    "chai",
+    "test",
+    "assert"
+  ],
+  "author": "Eugenio Lattanzio",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/eugeniol/chai-hr/issues"
+  },
+  "homepage": "https://github.com/eugeniol/chai-hr#readme"
+}
